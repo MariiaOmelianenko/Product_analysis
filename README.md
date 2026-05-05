@@ -74,3 +74,8 @@ Testing for statistically significant differences in sales and user behavior, an
 - Python (pandas, numpy)
 - Matplotlib / Seaborn
 - Scipy
+
+## Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/views/Book1_17756665053170/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
