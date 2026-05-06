@@ -34,6 +34,9 @@ Testing for statistically significant differences in sales and user behavior, an
 - Registered users have a slightly higher conversion rate (9.95% vs 9.56%)
 - Device type does not affect the average order value
 
+![Tableau](Images/Product_analysis2.png)
+![Tableau1](Images/Product_analysis1.png)
+
 *Українська версія*
 
 ## Мета проєкту
