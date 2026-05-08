@@ -3,7 +3,7 @@ Data analysis project focused on revenue, user behavior, segmentation and statis
 
 ## Project goal
 
-This project is aimed at conducting a comprehensive analysis of business profitability and identifying the key factors that influence revenue and growth. The results of the analysis provide both practical insights and a basis for generating hypotheses for further research and experimentation, particularly in the context of product optimization and marketing strategies.
+This project focuses on analyzing business profitability and identifying the key factors that drive revenue and growth. The results provide practical insights and help generate ideas for further analysis and product optimization.
 
 ## Key Objectives
 
